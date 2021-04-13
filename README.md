@@ -1,2 +1,1 @@
-# Lasagna-Recipe
-Learn how to make Lasagna. 
+This recipe is about making a lasagne which is an italian dish. It can be prepared with or without using meat. Cheese is the most prominent ingredient.
